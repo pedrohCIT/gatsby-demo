@@ -1,0 +1,8 @@
+{
+  "name": "gatsby-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:pedrohCIT/gatsby-demo.git",
+  "author": "Pedro Henrique Bonfim Fernandes <pedroh@ciandt.com>",
+  "license": "MIT"
+}
